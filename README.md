@@ -1,6 +1,6 @@
 # ReduceSynthesisLogs
 
-This repository contains the necessary set up environment and script to be able to parse a synthesis output log file and remove a set of warnings that are deemed "okay." Currently, there is an example of the warning list and log that is valid for running. 
+This repository contains the necessary set up environment and script to be able to parse a synthesis output log file and remove a set of warnings that are deemed "okay." Currently, there is an example of the warning list available for reference.  
 
 # Provided Environment consists of: 
   1. Python script
